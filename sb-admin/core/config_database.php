@@ -5,10 +5,10 @@
 class Database
 {
 	private $config = array(
-				"servername"	=>	"databases-auth.000webhost.com",
-				"username"		=>	"test_juga",
-				"password"		=>	"test_sql",
-				"dbname"		=>	"id2937946_test",
+				"servername"	=>	"localhost",
+				"username"		=>	"root",
+				"password"		=>	"",
+				"dbname"		=>	"test",
 			);
 	private $db;
 
